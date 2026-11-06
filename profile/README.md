@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hiptop-ai/hiptop-ai/main/docs/brand/hiptop-lockup.svg" alt="hiptop — AI agents for Android, from app to AOSP" width="440">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="hiptop-lockup-on-dark.svg">
+    <img src="hiptop-lockup.svg" alt="hiptop — AI agents for Android, from app to AOSP" width="440">
+  </picture>
 </p>
 
 <p align="center"><strong>Nothing is done until a test proves it.</strong></p>
